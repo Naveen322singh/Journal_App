@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209442619094",
+    "project_id": "journalkotlin-78258",
+    "storage_bucket": "journalkotlin-78258.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209442619094:android:15986d1366dafc5ddd1377",
+        "android_client_info": {
+          "package_name": "com.example.journalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNl85ltn7FKUapI7CFHq3QYHz3NloQIG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Journal"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_signout"
+        android:title="Sign Out"
+        app:actionLayout="@layout/menu_signout_layout"
+        app:showAsAction="never"/>
+</menu>
