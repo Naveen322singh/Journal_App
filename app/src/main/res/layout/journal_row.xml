@@ -70,13 +70,6 @@
                 android:textSize="18sp"
                 android:textStyle="normal" />
 
-            <TextView
-                android:id="@+id/journal_timestamp_list"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:padding="5dp"
-                android:text="@{String.valueOf(journal.timeAdded)}"
-                android:textStyle="italic" />
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
