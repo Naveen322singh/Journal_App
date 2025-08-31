@@ -3,8 +3,8 @@ A beautiful and secure Android journaling application that allows users to captu
 
 📸 Screenshots
 Login Screen	Firebase Authentication	Firestore Database	Cloud Storage
-<img src="/demopic.jpg" width="200">	<img src="screenshots/auth_console.png" width="200">	<img src="screenshots/firestore_console.png" width="200">	<img src="screenshots/storage_console.png" width="200">
-(Note: Replace the screenshot filenames with your own. The descriptions above match the screenshots you provided.)
+<img src="/demopic.jpg" width="200">	<img src="/1.jpg" width="200"> <img src="/2.jpg" width="200"> <img src="/4.jpg" width="200">
+
 
 ✨ Features
 User Authentication: Secure email and password login and registration using Firebase Auth.
