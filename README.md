@@ -2,6 +2,7 @@
 A beautiful and secure Android journaling application that allows users to capture their thoughts with text and images. Built with modern Android development practices and powered by Firebase for a seamless, real-time experience.
 
 📸 Screenshots
+
 <img src="/demopic.jpg" width="200">	<img src="/1.jpg" width="200"> <img src="/2.jpg" width="200"> <img src="/4.jpg" width="200">
 
 
